@@ -7,6 +7,7 @@ ChartJs.register(ArcElement, Tooltip, Legend);
 
 function Homepage() {
 
+    
     const [data, setData] = useState({
         datasets: [
             {
