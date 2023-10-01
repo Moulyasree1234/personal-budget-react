@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './App.scss';
 
 import 
   {
@@ -11,7 +11,7 @@ import
 import Aboutpage from './Aboutpage/Aboutpage';
 import Loginpage from './Loginpage/Loginpage';
 import Menu from './Menu/Menu';
-import Homepage from './Homepage/Homepage';
+import Homepage from './Homepage/HomePage';
 import Footer from './Footer/Footer';
 import Hero from './Hero/Hero';
 
