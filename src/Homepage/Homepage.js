@@ -25,14 +25,14 @@ function HomePage() {
           {
               data: res.data.myBudget.map(i => i.budget),
               backgroundColor: [
-                  '#0AFAF7',
-                  '#73FA0A',
-                  '#320AFA',
-                  '#FA0A0A',
-                  '#FA5E0A',
-                  '#DAF7A6',
-                  '#FF5733',
-                  '#581845'
+                '#ffcd56',
+                '#ff0000',
+                '#0000ff',
+                '#4d5791',
+                '#ff6384',
+                '#36a2eb',
+                '#fd6b19',
+                '#000000'
               ]
           }
         ], 
